@@ -1,1 +1,1 @@
-# rsscool-ml
+# rsschool-ml
